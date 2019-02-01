@@ -1,5 +1,5 @@
 # negotiating-major-swe-offers
-A post about negotiating new grad software engineering offers in the United States. Advice will be most helpful for (1) new grad students (2) in the United States (3) who are targeting major computer science companies that (5) they did their last internship with, (6) particularly if that company is Microsoft (Redmond HQ -- the figures discussed here will vary if the location is different.)
+A post about negotiating new grad software engineering offers in the United States. Advice will be most helpful for (1) new grad students (2) in the United States (3) who are targeting major computer science companies that (4) they did their last internship with, (5) particularly if that company is Microsoft (Redmond HQ -- the figures discussed here will vary if the location is different.)
 
 Some advice, however, is applicable to any/all new grad SWE positions in the U.S.
 
