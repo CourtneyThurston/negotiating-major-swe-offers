@@ -117,8 +117,8 @@ As for specific numbers, I asked for the highest stock and starting bonus figure
 **Common mistakes:** Hounding your recruiter directly with every bit of information ever. Recruiters really only care about your progress with directly competing companies--anything else is kind of whatever. For this reason, I left what other companies I had direct offers from already (mostly aerospace companies) unnamed and name-dropped the interviews with the big bois. Mystery is your friend. Also a common mistake: not checking in with your recruiter regularly (once a week or once every two weeks) to make sure things are moving along. You don’t want to slip between the cracks.
 
 ## My result & rationale for acceptance
-* **Initial offer:** 109k base, 120k stock, 25k signing & start bonuses + other stuff like relo/acceptance bonus/etc
-* **Negotiated offer:** 117k base, 130k stock, 30k signing & start bonuses + other unchanged stuff
+* **Initial offer:** 109k base, 120k stock grant, 25k signing & start bonuses + other stuff like relo/acceptance bonus/etc
+* **Negotiated offer:** 117k base, 130k stock grant, 30k signing & start bonuses + other unchanged stuff
 
 I was willing to accept this combination of increase largely because increases in base > stock > bonus. Though they didn’t come back with exactly what I’d asked for for stock/bonus, doing so is also really rare. Ultimately, the bump in base was really valuable not only because base recurs every year, but because your base affects your performance bonus target every year (larger base, larger bonus target, etc). 
 
