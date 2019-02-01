@@ -99,13 +99,14 @@ As for specific numbers, I asked for the highest stock and starting bonus figure
 *I'm following up regarding the full-time offer presented and discussed this past Monday, 8/6. As mentioned, I’ve been pleased with my* *Microsoft experience, and I would genuinely like to go full time here.*
 
 *As requested, the number that I think is commensurate with my skills and experience is total compensation at the 200k level between* *stock and bonus, made up of a 50k starting bonus and 150k stock. This is on the basis of being here 3 times, having measurable*
-*business impact from multiple shipped features, and being in final rounds with highly competitive employers I’ve previously* *successfully interviewed with [companies I've successfully interviewed with -- named only direct competitors], as well as standing offers from previous employers.*
+*business impact from multiple shipped features, and being in final rounds with highly competitive employers I’ve previously* *successfully interviewed with [companies I've successfully interviewed with -- named only direct competitors or unicorns that they would care about], as well as standing offers from previous employers.*
 
 *I would be comfortable withdrawing from other companies’ loops for this offer, as compensation is the currently-missing piece and* *Microsoft wins for me on culture.*
 
 *I really appreciate all your hard-work and advocacy, especially as Microsoft is one of my top choices for full time. I really believe* *in the company mission and in my team’s product space, and would love for this to work out.*
 
 *Thank you,*
+
 *Courtney*
 
 **Speaking of email:** sometimes a phone call is better, but an email lets you get everything in writing. It was also better for my specific recruiter, I think, based on personality (not to mention it was also more comfortable for me). YMMV.
