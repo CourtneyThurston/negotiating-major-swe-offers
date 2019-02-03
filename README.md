@@ -118,7 +118,7 @@ As for specific numbers, I asked for the highest stock and starting bonus figure
 
 ## My result & rationale for acceptance
 * **Initial offer:** 109k base, 120k stock grant, 25k signing & start bonuses + other stuff like relo/acceptance bonus/etc
-* **Negotiated offer:** 117k base, 130k stock grant, 30k signing & start bonuses + other unchanged stuff
+* **Negotiated offer:** 117k base, 130k stock grant, 35k signing & start bonuses + other unchanged stuff
 
 I was willing to accept this combination of increase largely because increases in base > stock > bonus. Though they didn’t come back with exactly what I’d asked for for stock/bonus, doing so is also really rare. Ultimately, the bump in base was really valuable not only because base recurs every year, but because your base affects your performance bonus target every year (larger base, larger bonus target, etc). 
 
