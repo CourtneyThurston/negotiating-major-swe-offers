@@ -70,7 +70,7 @@ Going into my final meeting, I really expected the first tier offer (the lowest 
 
 **For reference, the standard offer for Redmond new grad SWEs at the time was:** 109k base, 70k stock, 20-25k signing (+5k intern bonus if that applies to you). 
 
-**Summer 2021 updated figures:** 112.5k base, 120k stock (argue with them if they try to roll less on the initial offer), 25k signing. I've heard they've done away with the intern conversion/signing bonus now.
+**Summer 2021 updated figures for INTERN TO FTE CONVERTS (likely to be higher than new grad FTEs with no MSFT internships):** 112.5k base, 120k stock (argue with them if they try to roll less on the initial offer), 25k signing. I've heard they've done away with the intern conversion/signing bonus now.
 
 ## Never name a number first
 Here’s why you never name a number first: if he had asked me to, even before he gave an initial offer (and some companies WILL do that), I probably would’ve said I wanted to T2 offer: 109k base, 120k stock, and 20-25k signing, because that’s a significant improvement upon T1.
