@@ -5,6 +5,9 @@ Some advice, however, is applicable to any/all new grad SWE positions in the U.S
 
 Note also that, at Microsoft, the following advice applies ONLY to "core engineering" roles. This includes SWE roles, PM roles, and hardware engineering roles (and maybe something else that I'm forgetting? Send a PR.) It DOES NOT include offers in finance, marketing, sales, recruiting, etc etc etc. 
 
+# See Also
+* [Personal finances for technical people by Courtney Thurston](https://github.com/CourtneyThurston/personal-finance-memes-for-tech-teens)
+
 ## Microsoft-specific notes and context
 * **Things that typically are negotiable at Microsoft:** starting bonus and stock grants.
 * **Things that typically aren’t negotiable at Microsoft:** YMMV, but typically anything else.
